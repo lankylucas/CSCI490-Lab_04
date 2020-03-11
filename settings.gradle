@@ -1,0 +1,2 @@
+rootProject.name='CSCI490-Lab_04'
+include ':app'
